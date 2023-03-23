@@ -33,6 +33,7 @@ sudo apt-get install mysql-server
 -Установить и удалить deb-пакет с помощью dpkg.
 
 4.
+
 sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64/docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb
 sudo dpkg -i docker-ce-cli_20.10.133-0ubuntu-jammy_amd64.deb
 sudo dpkg -r docker-ce-cli
