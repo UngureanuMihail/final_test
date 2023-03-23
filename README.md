@@ -15,3 +15,13 @@ https://github.com/UngureanuMihail/final_test/blob/MySql/Database.sql
 
 -Добавление имен и команд для животных 
 https://github.com/UngureanuMihail/final_test/blob/MySql/animalsComands.sql
+
+
+-Удаление из таблицы верблюдов. Объединить таблицы лошади, и ослы в одну таблицу. 
+https://github.com/UngureanuMihail/final_test/blob/MySql/Delete.sql
+
+-Сортировка по возрасту 
+https://github.com/UngureanuMihail/final_test/blob/MySql/Age.sql
+
+-Объединение таблиц 
+https://github.com/UngureanuMihail/final_test/blob/MySql/Merge.sql
