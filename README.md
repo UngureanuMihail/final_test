@@ -3,13 +3,13 @@
 -Создание двух файлов Домашние животные и Вьючные животные в терминале операционной системы Linux, объединить их. Переименовать файл.
 
 1.
-cd ~/Michael
-cat > home_animals
-cat > pack_animals
-cat home_animals pack_animals > animals
-cat animals
-mv animals mans_friends
-ls -ali
+cd ~/Michael 
+cat > home_animals 
+cat > pack_animals 
+cat home_animals pack_animals > animals 
+cat animals 
+mv animals mans_friends 
+ls -ali 
 
 
 -Создание директории, перемещение файла.
