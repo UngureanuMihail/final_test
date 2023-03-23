@@ -12,3 +12,6 @@ https://github.com/UngureanuMihail/final_test/blob/main/Diagram.drawio.png
 
 -В подключенном MySQL репозитории создать базу данных “Друзья человека” , Создать таблицу с иерархией из диаграммы в БД
 https://github.com/UngureanuMihail/final_test/blob/MySql/Database.sql
+
+-Добавление имен и команд для животных 
+https://github.com/UngureanuMihail/final_test/blob/MySql/animalsComands.sql
