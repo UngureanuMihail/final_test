@@ -13,11 +13,11 @@ https://github.com/UngureanuMihail/final_test/blob/main/Diagram.drawio.png
 -В подключенном MySQL репозитории создать базу данных “Друзья человека” , Создать таблицу с иерархией из диаграммы в БД
 https://github.com/UngureanuMihail/final_test/blob/MySql/Database.sql
 
--Добавление имен и команд для животных 
+-Добавление имен и команд для животных  
 https://github.com/UngureanuMihail/final_test/blob/MySql/animalsComands.sql
 
 
--Удаление из таблицы верблюдов. Объединить таблицы лошади, и ослы в одну таблицу. 
+-Удаление из таблицы верблюдов. Объединить таблицы лошади, и ослы в одну таблицу.  
 https://github.com/UngureanuMihail/final_test/blob/MySql/Delete.sql
 
 -Сортировка по возрасту 
@@ -28,3 +28,7 @@ https://github.com/UngureanuMihail/final_test/blob/MySql/Merge.sql
 
 -Создать класс с инкапсуляцией методов и наследованием по диаграмме. 
 https://github.com/UngureanuMihail/final_test/tree/Program/Animals/src/myVision
+
+-Написать программу, имитирующую работу реестра домашних животных ,  c фунционалом указанным в ТЗ
+https://github.com/UngureanuMihail/final_test/tree/Program/Animals/src
+
