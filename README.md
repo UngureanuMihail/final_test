@@ -25,3 +25,6 @@ https://github.com/UngureanuMihail/final_test/blob/MySql/Age.sql
 
 -Объединение таблиц 
 https://github.com/UngureanuMihail/final_test/blob/MySql/Merge.sql
+
+-Создать класс с инкапсуляцией методов и наследованием по диаграмме. 
+https://github.com/UngureanuMihail/final_test/tree/Program/Animals/src/myVision
