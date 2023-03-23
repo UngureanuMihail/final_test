@@ -8,4 +8,4 @@
 
 -Установить и удалить deb-пакет с помощью dpkg. 
 
-История команд : https://github.com/UngureanuMihail/final_test/tree/Task1
+История команд : https://github.com/UngureanuMihail/final_test/blob/Task1/Comands.rtf
